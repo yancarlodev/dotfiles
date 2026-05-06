@@ -1,0 +1,5 @@
+.config/cliamp/*
+!.config/cliamp/config.toml
+!.config/cliamp/radios.toml
+
+.zshenv
