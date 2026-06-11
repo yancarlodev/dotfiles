@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo pacman -S --needed - < .pkgs
+
+yay -S --needed - < .aurpkgs
