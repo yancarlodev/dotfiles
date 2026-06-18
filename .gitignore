@@ -1,5 +1,6 @@
 .config/cliamp/*
 !.config/cliamp/config.toml
 !.config/cliamp/radios.toml
+.config/tmux/plugins
 
 .bashenv
